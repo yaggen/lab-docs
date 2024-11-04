@@ -1,0 +1,12 @@
+site_name: JackHack Homelab Docs
+theme:
+  name: material
+
+plugins:
+  - git-authors
+  - git-revision-date-localized
+
+markdown_extensions:
+  - admonition
+  - pymdownx.superfences
+  - pymdownx.details
